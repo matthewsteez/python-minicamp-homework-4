@@ -29,7 +29,7 @@ end
 # unset irrelevant variables
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/Users/Matt/Documents/Python/4/assignment4/env"
+set -gx VIRTUAL_ENV "/Users/Matt/Documents/Python/4/assignment4/python-minicamp-homework-4/env"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH

@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/Users/Matt/Documents/Python/4/assignment4/env"
+VIRTUAL_ENV="/Users/Matt/Documents/Python/4/assignment4/python-minicamp-homework-4/env"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
